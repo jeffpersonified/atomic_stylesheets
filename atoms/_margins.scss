@@ -1,0 +1,33 @@
+@each $margin in $margin_iterations {
+
+  .#{$margin_name} {
+    margin: #{$margin}px;
+  }
+
+  .#{$margin_name}t {
+    margin-top: #{$margin}px;
+  }
+
+  .#{$margin_name}r {
+    margin-right:  #{$margin}px;
+  }
+
+  .#{$margin_name}b {
+    margin-bottom: #{$margin}px;
+  }
+
+  .#{$margin_name}l {
+    margin-left: #{$margin}px;
+  }
+
+  .#{$margin_name}x {
+    margin-left: #{$margin}px;
+    margin-right: #{$margin}px;
+  }
+
+  .#{$margin_name}y {
+    margin-top: #{$margin}px;
+    margin-bottom: #{$margin}px;
+  }
+
+}

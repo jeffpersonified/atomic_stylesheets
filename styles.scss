@@ -1,5 +1,10 @@
 // Manifest for Atomic
 ////////////////////////////////////////////////////////////////////////////////
 
+@import 'variables/variables';
 @import 'mixins/mixins';
 @import 'atoms/atoms';
+
+// We've intentionally left the framework grid agnostic
+// If you'd like to include our grid, comment in the line below
+// @import 'compounds/grid';
