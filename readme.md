@@ -10,7 +10,7 @@ MVP:
 - font-weight
 - line-height
 
-Shit that needs variables:
+TBD:
 
 - font-family
 - sizing
