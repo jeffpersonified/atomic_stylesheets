@@ -450,3 +450,15 @@
 
 .fz--72 {
   font-size: 72px; }
+
+.fl--l {
+  float: left; }
+
+.fl--r {
+  float: right; }
+
+.fl--n {
+  float: none; }
+
+.fl--i {
+  float: inherit; }
