@@ -7,10 +7,11 @@
 $margin_name: m;
 $padding_name: p;
 $font_size_name: fz;
-
+$width_name: w;
 
 // These are the pixel dimensions output for each attribute
 
-$margin_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30;
-$padding_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30;
-$font_size_iterations: 9, 10, 11, 12, 13, 14, 18, 20, 24, 36, 48, 64, 72;
+$margin_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30; // px
+$padding_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30; // px
+$font_size_iterations: 9, 10, 11, 12, 13, 14, 18, 20, 24, 36, 48, 64, 72; // px
+$width_iterations: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100; // %
