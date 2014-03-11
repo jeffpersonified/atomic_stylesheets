@@ -1,4 +1,3 @@
-// $font_size_iterations: 9, 10, 11, 12, 13, 14, 18, 20, 24, 36, 48, 64, 72;
 @each $font_size in $font_size_iterations {
 
   .#{$font_size_name}--#{$font_size} {
