@@ -1,31 +1,31 @@
 @each $margin in $margin_iterations {
 
-  .#{$margin_name} {
+  .#{$margin_name}--#{$margin} {
     margin: #{$margin}px;
   }
 
-  .#{$margin_name}t {
+  .#{$margin_name}t--#{$margin} {
     margin-top: #{$margin}px;
   }
 
-  .#{$margin_name}r {
+  .#{$margin_name}r--#{$margin} {
     margin-right:  #{$margin}px;
   }
 
-  .#{$margin_name}b {
+  .#{$margin_name}b--#{$margin} {
     margin-bottom: #{$margin}px;
   }
 
-  .#{$margin_name}l {
+  .#{$margin_name}l--#{$margin} {
     margin-left: #{$margin}px;
   }
 
-  .#{$margin_name}x {
+  .#{$margin_name}x--#{$margin} {
     margin-left: #{$margin}px;
     margin-right: #{$margin}px;
   }
 
-  .#{$margin_name}y {
+  .#{$margin_name}y--#{$margin} {
     margin-top: #{$margin}px;
     margin-bottom: #{$margin}px;
   }

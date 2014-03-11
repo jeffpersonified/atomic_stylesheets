@@ -1,31 +1,31 @@
 @each $padding in $padding_iterations {
 
-  .#{$padding_name} {
+  .#{$padding_name}--#{$padding} {
     padding: #{$padding}px;
   }
 
-  .#{$padding_name}t {
+  .#{$padding_name}t--#{$padding} {
     padding-top: #{$padding}px;
   }
 
-  .#{$padding_name}r {
+  .#{$padding_name}r--#{$padding} {
     padding-right:  #{$padding}px;
   }
 
-  .#{$padding_name}b {
+  .#{$padding_name}b--#{$padding} {
     padding-bottom: #{$padding}px;
   }
 
-  .#{$padding_name}l {
+  .#{$padding_name}l--#{$padding} {
     padding-left: #{$padding}px;
   }
 
-  .#{$padding_name}x {
+  .#{$padding_name}x--#{$padding} {
     padding-left: #{$padding}px;
     padding-right: #{$padding}px;
   }
 
-  .#{$padding_name}y {
+  .#{$padding_name}y--#{$padding} {
     padding-top: #{$padding}px;
     padding-bottom: #{$padding}px;
   }
