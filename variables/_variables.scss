@@ -13,7 +13,9 @@ $display_name: d;
 $font_weight_name: fw;
 $line_height_name: lh;
 
-// These are the pixel dimensions output for each attribute
+// These are the values iterated over for the
+// output for each attribute. The are very much in need
+// of review for best use in actual use.
 
 $margin_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30; // px
 $padding_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30; // px
