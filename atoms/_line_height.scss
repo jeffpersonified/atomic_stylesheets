@@ -1,0 +1,7 @@
+@each $line_height in $line_height_iterations {
+
+  .#{$line_height_name}--#{$line_height} {
+    width: percentage($line_height/100);
+  }
+
+}

@@ -8,7 +8,7 @@ MVP:
 - ~~float~~
 - ~~display~~
 - ~~font-weight~~
-- line-height
+- ~~line-height~~
 
 TBD:
 
@@ -20,4 +20,4 @@ TBD:
 
 Opinions:
 
-- Everything pixel based
+- Everything pixel based for now; use rem conversion mixin later
