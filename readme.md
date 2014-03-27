@@ -5,8 +5,8 @@ MVP:
 - ~~font-size~~
 - ~~width (percentage)~~
 - ~~height (percentage)~~
-- float
-- display
+- ~~float~~
+- ~~display~~
 - font-weight
 - line-height
 
