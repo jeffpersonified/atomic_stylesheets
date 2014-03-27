@@ -2,7 +2,7 @@
 @each $width in $width_iterations {
 
   .#{$width_name}--#{$width} {
-    width: #{$width}%;
+    width: percentage($width/100);
   }
 
 }

@@ -451,6 +451,7 @@
 .fz--72 {
   font-size: 72px; }
 
+<<<<<<< HEAD
 .w--10 {
   width: 10px; }
 
@@ -480,3 +481,16 @@
 
 .w--100 {
   width: 100px; }
+=======
+.fl--l {
+  float: left; }
+
+.fl--r {
+  float: right; }
+
+.fl--n {
+  float: none; }
+
+.fl--i {
+  float: inherit; }
+>>>>>>> master
