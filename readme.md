@@ -7,7 +7,7 @@ MVP:
 - ~~height (percentage)~~
 - ~~float~~
 - ~~display~~
-- font-weight
+- ~~font-weight~~
 - line-height
 
 TBD:

@@ -10,6 +10,7 @@ $font_size_name: fz;
 $float_name: fl;
 $width_name: w;
 $display_name: d;
+$font_weight_name: fw;
 
 // These are the pixel dimensions output for each attribute
 
@@ -18,3 +19,4 @@ $padding_iterations: 1, 2, 3, 4, 5, 10, 15, 20, 30; // px
 $font_size_iterations: 9, 10, 11, 12, 13, 14, 18, 20, 24, 36, 48, 64, 72; // px
 $width_iterations: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100; // %
 $height_iterations: 10, 20, 30, 40, 50, 60, 70, 80, 90, 100; // %
+$font_weight_iterations: 100, 300, 500, 700;

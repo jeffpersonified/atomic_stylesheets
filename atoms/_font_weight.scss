@@ -1,0 +1,7 @@
+@each $font_weight in $font_weight_iterations {
+
+  .#{$font_weight_name}--#{$font_weight} {
+    font-weight: #{$font_weight};
+  }
+
+}
