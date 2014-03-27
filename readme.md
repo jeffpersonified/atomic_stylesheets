@@ -1,10 +1,10 @@
 MVP:
 
-- margin
-- padding
-- font-size
-- width (percentage)
-- height (percentage)
+- ~~margin~~
+- ~~padding~~
+- ~~font-size~~
+- ~~width (percentage)~~
+- ~~height (percentage)~~
 - float
 - display
 - font-weight
